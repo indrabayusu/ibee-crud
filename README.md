@@ -13,7 +13,7 @@ v. 2
 - Fix at edit feature (for now, you can't edit product in this app)
 
 ## Here some screenshots
-![Homepage](https://github.com/indrabayusu/ibee-crud/blob/main/assets/ibee-home.jpg)
+![Homepage](https://github.com/indrabayusu/ibee-crud/assets/ibee-home.jpg)
 Homepage
 
 ![View Product](https://github.com/indrabayusu/ibee-crud/blob/main/assets/ibee-view.jpg)
